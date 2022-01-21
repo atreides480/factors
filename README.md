@@ -1,2 +1,2 @@
 # factors
-this is a basic readme file
+project on machine learning with factots
